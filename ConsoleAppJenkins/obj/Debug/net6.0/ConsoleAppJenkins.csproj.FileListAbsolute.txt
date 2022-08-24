@@ -1,0 +1,15 @@
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.exe
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.deps.json
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.runtimeconfig.json
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.dll
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.pdb
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.csproj.AssemblyReference.cache
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.AssemblyInfoInputs.cache
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.AssemblyInfo.cs
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.csproj.CoreCompileInputs.cache
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.dll
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\refint\ConsoleAppJenkins.dll
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.pdb
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.genruntimeconfig.cache
+C:\Users\Mubarak_Lepakshi\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ref\ConsoleAppJenkins.dll
