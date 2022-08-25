@@ -7,7 +7,7 @@ namespace ConsoleAppJenkins
         string s;
         public static void Main()
         {
-            int a, b;
+            int a, b,c;
             Console.WriteLine("Hello World!");
         }
     }
